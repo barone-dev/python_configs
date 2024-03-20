@@ -1,6 +1,6 @@
 -r base.txt
 
-black==19.3b0
+black==24.3.0
 ipdb==0.12.2
 PyHamcrest==1.9.0
 pytest==5.2.1
